@@ -1,17 +1,16 @@
 --- #YAML:1.0
 name:                Thread-Cancel
-version:             1.05
+version:             1.06
 abstract:            Cancel (i.e., kill) threads
 license:             perl
-generated_by:        ExtUtils::MakeMaker version 6.31
+author:              
+    - Jerry D. Hedden <jdhedden AT cpan DOT org>
+generated_by:        ExtUtils::MakeMaker version 6.43_01
 distribution_type:   module
 requires:     
-    strict:                        0
     Test::More:                    0.5
     threads:                       1.39
-    warnings:                      0
+    threads::shared:               0
 meta-spec:
-    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
-    version: 1.2
-author:
-    - Jerry D. Hedden <jdhedden AT cpan DOT org>
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3

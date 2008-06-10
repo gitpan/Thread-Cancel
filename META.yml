@@ -1,11 +1,11 @@
 --- #YAML:1.0
 name:                Thread-Cancel
-version:             1.07
+version:             1.08
 abstract:            Cancel (i.e., kill) threads
 license:             perl
 author:              
     - Jerry D. Hedden <jdhedden AT cpan DOT org>
-generated_by:        ExtUtils::MakeMaker version 6.42
+generated_by:        ExtUtils::MakeMaker version 6.44
 distribution_type:   module
 requires:     
     Test::More:                    0.5

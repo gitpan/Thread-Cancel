@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Thread-Cancel
-version:             1.08
+version:             1.09
 abstract:            Cancel (i.e., kill) threads
 license:             perl
 author:              

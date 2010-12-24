@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Thread-Cancel
-version:            1.11
+version:            1.13
 abstract:           Cancel (i.e., kill) threads
 author:
     - Jerry D. Hedden <jdhedden AT cpan DOT org>
